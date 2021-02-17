@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  text-align: center;
 }
 
 input {
@@ -36,15 +37,6 @@ li {
   margin-left: auto;
   margin-right: auto;
   /* width: 10em; */
-}
-
-.input-area {
-  background-color: #b5eec6;
-  width: 400px;
-  height: 30px;
-  padding: 8px;
-  margin: 8px;
-  border-radius: 2px;
 }
 
 .incomplete-area {
