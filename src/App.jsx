@@ -52,7 +52,7 @@ export const App = () => {
         onClick={onClickAdd}
       />
       {incompleteTodos.length >= 5 && (
-        <p style={{ color: "red", textAlign: "center" }}>
+        <p style={{ color: "red" }}>
           何してるんですか、5個までしか登録できませんよ
         </p>
       )}
